@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="169" passed="169" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-12T18:52:17 PET" name="VehiculoTest" finished-at="2021-09-12T18:52:17 PET" duration-ms="275">
+    <groups>
+    </groups>
+    <test started-at="2021-09-12T18:52:17 PET" name="Command line test" finished-at="2021-09-12T18:52:17 PET" duration-ms="275">
+      <class name="VehiculoTest">
+        <test-method signature="test01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="test01" finished-at="2021-09-12T18:52:17 PET" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method signature="test02()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="test02" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method signature="test03()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="test03" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testAutomovil01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testAutomovil01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutomovil01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testCamion01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testCamion01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCamion01 -->
+        <test-method signature="testFunc01()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testFunc01" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunc01 -->
+        <test-method signature="testFunc02()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testFunc02" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunc02 -->
+        <test-method signature="testFunc04()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testFunc04" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunc04 -->
+        <test-method signature="testFunc03()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testFunc03" finished-at="2021-09-12T18:52:17 PET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunc03 -->
+        <test-method signature="testFunc05()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testFunc05" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunc05 -->
+        <test-method signature="testFunc06()[pri:0, instance:VehiculoTest@6155d082]" started-at="2021-09-12T18:52:17 PET" name="testFunc06" finished-at="2021-09-12T18:52:17 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFunc06 -->
+      </class> <!-- VehiculoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- VehiculoTest -->
+</testng-results>
